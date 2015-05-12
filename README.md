@@ -1,3 +1,5 @@
+My repo for the js-assessment questions to record progress and share between computers.  Original creator's notes below- thanks for the awesome resource!
+
 # A test-driven JS assessment
 
 [![Join the chat at https://gitter.im/rmurphey/js-assessment](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/rmurphey/js-assessment?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
