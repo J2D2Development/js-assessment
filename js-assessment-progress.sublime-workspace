@@ -407,7 +407,7 @@
 			"file": "app/arrays.js",
 			"settings":
 			{
-				"buffer_size": 1807,
+				"buffer_size": 2432,
 				"line_ending": "Windows"
 			}
 		},
@@ -460,6 +460,8 @@
 	},
 	"file_history":
 	[
+		"/C/xampp/htdocs/js-assessment/tests/app/flowControl.js",
+		"/C/xampp/htdocs/js-assessment/app/flowControl.js",
 		"/C/Users/joedriscoll79/Documents/2011passwords.txt",
 		"/C/xampp/htdocs/js-assessment/tests/app/count.js",
 		"/C/xampp/htdocs/js-assessment/app/count.js",
@@ -585,9 +587,7 @@
 		"/C/xampp/htdocs/NordDev/cp/editmbs.inc",
 		"/C/xampp/htdocs/NordDev/cp/editdir.php",
 		"/C/xampp/htdocs/NordDev/cp/editrk.inc",
-		"/C/xampp/htdocs/NordDev/cp/editballots.php",
-		"/C/xampp/htdocs/NordDev/cp/editservices.inc",
-		"/C/xampp/htdocs/NordDev/cp/editassocgov.inc"
+		"/C/xampp/htdocs/NordDev/cp/editballots.php"
 	],
 	"find":
 	{
@@ -767,15 +767,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 1807,
+						"buffer_size": 2432,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								660,
-								660
+								573,
+								573
 							]
 						],
 						"settings":
@@ -785,7 +785,7 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 272.0,
+						"translation.y": 206.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,
@@ -815,7 +815,7 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 198.0,
+						"translation.y": 1914.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 2,
@@ -834,8 +834,8 @@
 						"selection":
 						[
 							[
-								2917,
-								2894
+								3105,
+								3076
 							]
 						],
 						"settings":
@@ -845,7 +845,7 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 396.0,
+						"translation.y": 242.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 1,

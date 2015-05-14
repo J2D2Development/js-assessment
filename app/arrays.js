@@ -21,6 +21,7 @@ define(function() {
         return arr;
     },
 
+    //!!!this gives the right answer, but doesn't pass test?
     removeWithoutCopy : function(arr, item) {
         arr.forEach(function(x) {
             if(arr[x] === item) {
