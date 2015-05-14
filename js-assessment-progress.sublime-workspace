@@ -407,7 +407,15 @@
 			"file": "app/arrays.js",
 			"settings":
 			{
-				"buffer_size": 1081,
+				"buffer_size": 1807,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "README.md",
+			"settings":
+			{
+				"buffer_size": 4675,
 				"line_ending": "Windows"
 			}
 		},
@@ -452,6 +460,7 @@
 	},
 	"file_history":
 	[
+		"/C/Users/joedriscoll79/Documents/2011passwords.txt",
 		"/C/xampp/htdocs/js-assessment/tests/app/count.js",
 		"/C/xampp/htdocs/js-assessment/app/count.js",
 		"/C/xampp/htdocs/js-assessment/tests/app/bestPractices.js",
@@ -459,7 +468,6 @@
 		"/C/xampp/htdocs/js-assessment/app/logicalOperators.js",
 		"/C/xampp/htdocs/js-assessment/tests/app/logicalOperators.js",
 		"/C/xampp/htdocs/js-assessment/app/modules.js",
-		"/C/Users/joedriscoll79/Documents/2011passwords.txt",
 		"/C/xampp/htdocs/NordEnterprises/Backup Files/2015-05userUpgradeBACKUP/page.html",
 		"/C/xampp/htdocs/NordEnterprises/page.html",
 		"/C/xampp/htdocs/NordEnterprises/Temp/feature.html",
@@ -583,7 +591,7 @@
 	],
 	"find":
 	{
-		"height": 31.0
+		"height": 50.0
 	},
 	"find_in_files":
 	{
@@ -759,15 +767,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 1081,
+						"buffer_size": 1807,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								715,
-								715
+								660,
+								660
 							]
 						],
 						"settings":
@@ -777,7 +785,7 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 528.0,
+						"translation.y": 272.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,
@@ -785,6 +793,36 @@
 				},
 				{
 					"buffer": 1,
+					"file": "README.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4675,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								153,
+								153
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Markdown/Markdown.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 198.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
 					"file": "tests/app/arrays.js",
 					"semi_transient": false,
 					"settings":
@@ -796,8 +834,8 @@
 						"selection":
 						[
 							[
-								0,
-								0
+								2917,
+								2894
 							]
 						],
 						"settings":
@@ -807,7 +845,7 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 990.0,
+						"translation.y": 396.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 1,
