@@ -50,7 +50,16 @@ define(function() {
     },
 
     concat : function(arr1, arr2) {
+        var finalArr = [];
 
+        arr1.forEach(function(x) {
+            finalArr.push(x);
+        });
+        arr2.forEach(function(y) {
+            finalArr.push(y);
+        });
+
+        return finalArr;
     },
 
     insert : function(arr, item, index) {
@@ -69,7 +78,17 @@ define(function() {
     },
 
     duplicates : function(arr) {
+        var dupeArray = [];
 
+        for(var i = 0, l = arr.length; i < l; i += 1) {
+            var current = arr[i];
+            for(var j = i + 1; j < l; j += 1) {
+                if(arr[j] === current && dupeArray.indexOf(current) === -1) {
+                    dupeArray.push(current);
+                }
+            }
+        }
+        return dupeArray;
     },
 
     square : function(arr) {
