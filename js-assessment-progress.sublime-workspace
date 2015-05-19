@@ -404,14 +404,6 @@
 	"buffers":
 	[
 		{
-			"file": "app/arrays.js",
-			"settings":
-			{
-				"buffer_size": 2432,
-				"line_ending": "Windows"
-			}
-		},
-		{
 			"file": "README.md",
 			"settings":
 			{
@@ -420,10 +412,18 @@
 			}
 		},
 		{
-			"file": "tests/app/arrays.js",
+			"file": "app/functions.js",
 			"settings":
 			{
-				"buffer_size": 3665,
+				"buffer_size": 521,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "tests/app/functions.js",
+			"settings":
+			{
+				"buffer_size": 5216,
 				"line_ending": "Windows"
 			}
 		}
@@ -460,6 +460,13 @@
 	},
 	"file_history":
 	[
+		"/C/xampp/htdocs/js-assessment/tests/app/numbers.js",
+		"/C/xampp/htdocs/js-assessment/app/numbers.js",
+		"/C/xampp/htdocs/js-assessment/tests/app/logicalOperators.js",
+		"/C/xampp/htdocs/js-assessment/app/logicalOperators.js",
+		"/C/xampp/htdocs/js-assessment/tests/app/arrays.js",
+		"/C/xampp/htdocs/js-assessment/app/arrays.js",
+		"/C/xampp/htdocs/js-assessment/app/modules.js",
 		"/C/xampp/htdocs/js-assessment/tests/app/flowControl.js",
 		"/C/xampp/htdocs/js-assessment/app/flowControl.js",
 		"/C/Users/joedriscoll79/Documents/2011passwords.txt",
@@ -467,9 +474,6 @@
 		"/C/xampp/htdocs/js-assessment/app/count.js",
 		"/C/xampp/htdocs/js-assessment/tests/app/bestPractices.js",
 		"/C/xampp/htdocs/js-assessment/app/bestPractices.js",
-		"/C/xampp/htdocs/js-assessment/app/logicalOperators.js",
-		"/C/xampp/htdocs/js-assessment/tests/app/logicalOperators.js",
-		"/C/xampp/htdocs/js-assessment/app/modules.js",
 		"/C/xampp/htdocs/NordEnterprises/Backup Files/2015-05userUpgradeBACKUP/page.html",
 		"/C/xampp/htdocs/NordEnterprises/page.html",
 		"/C/xampp/htdocs/NordEnterprises/Temp/feature.html",
@@ -583,11 +587,7 @@
 		"/C/xampp/htdocs/NordDev/cp/editmediafiles.inc",
 		"/C/xampp/htdocs/NordDev/cp/editphotoalbums.php",
 		"/C/xampp/htdocs/NordDev/cp/editpics.inc",
-		"/C/xampp/htdocs/NordDev/cp/editreqforms.php",
-		"/C/xampp/htdocs/NordDev/cp/editmbs.inc",
-		"/C/xampp/htdocs/NordDev/cp/editdir.php",
-		"/C/xampp/htdocs/NordDev/cp/editrk.inc",
-		"/C/xampp/htdocs/NordDev/cp/editballots.php"
+		"/C/xampp/htdocs/NordDev/cp/editreqforms.php"
 	],
 	"find":
 	{
@@ -758,41 +758,11 @@
 	"groups":
 	[
 		{
-			"selected": 0,
+			"selected": 2,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "app/arrays.js",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 2432,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								573,
-								573
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 206.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 0,
-					"type": "text"
-				},
-				{
-					"buffer": 1,
 					"file": "README.md",
 					"semi_transient": false,
 					"settings":
@@ -822,20 +792,50 @@
 					"type": "text"
 				},
 				{
-					"buffer": 2,
-					"file": "tests/app/arrays.js",
+					"buffer": 1,
+					"file": "app/functions.js",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 3665,
+						"buffer_size": 521,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								3105,
-								3076
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "tests/app/functions.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5216,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
 							]
 						],
 						"settings":
@@ -845,10 +845,10 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 242.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 1,
+					"stack_index": 0,
 					"type": "text"
 				}
 			]
