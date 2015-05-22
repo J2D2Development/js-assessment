@@ -415,7 +415,7 @@
 			"file": "app/functions.js",
 			"settings":
 			{
-				"buffer_size": 521,
+				"buffer_size": 1532,
 				"line_ending": "Windows"
 			}
 		},
@@ -460,6 +460,9 @@
 	},
 	"file_history":
 	[
+		"/C/xampp/htdocs/jsPractice/good-parts-q1-5.js",
+		"/C/Users/joedriscoll79/Documents/2011passwords.txt",
+		"/C/Users/joedriscoll79/Documents/Nord Enterprises/SE Region/Four Seasons/optimized_contents/js/jquery.bgiframe.js",
 		"/C/xampp/htdocs/js-assessment/tests/app/numbers.js",
 		"/C/xampp/htdocs/js-assessment/app/numbers.js",
 		"/C/xampp/htdocs/js-assessment/tests/app/logicalOperators.js",
@@ -469,7 +472,6 @@
 		"/C/xampp/htdocs/js-assessment/app/modules.js",
 		"/C/xampp/htdocs/js-assessment/tests/app/flowControl.js",
 		"/C/xampp/htdocs/js-assessment/app/flowControl.js",
-		"/C/Users/joedriscoll79/Documents/2011passwords.txt",
 		"/C/xampp/htdocs/js-assessment/tests/app/count.js",
 		"/C/xampp/htdocs/js-assessment/app/count.js",
 		"/C/xampp/htdocs/js-assessment/tests/app/bestPractices.js",
@@ -585,9 +587,7 @@
 		"/C/xampp/htdocs/NordDev/cp/cppage.html",
 		"/C/xampp/htdocs/NordDev/cp/editpayment.php",
 		"/C/xampp/htdocs/NordDev/cp/editmediafiles.inc",
-		"/C/xampp/htdocs/NordDev/cp/editphotoalbums.php",
-		"/C/xampp/htdocs/NordDev/cp/editpics.inc",
-		"/C/xampp/htdocs/NordDev/cp/editreqforms.php"
+		"/C/xampp/htdocs/NordDev/cp/editphotoalbums.php"
 	],
 	"find":
 	{
@@ -605,6 +605,7 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"curryIt",
 			"facebook",
 			"toTop",
 			"facebook",
@@ -731,8 +732,7 @@
 			"new reservation",
 			"&nbsp;",
 			"&nbsp;</div>",
-			"facility prop",
-			"facility descrip"
+			"facility prop"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -797,15 +797,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 521,
+						"buffer_size": 1532,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								0,
-								0
+								712,
+								712
 							]
 						],
 						"settings":
@@ -815,7 +815,7 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 198.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 1,
@@ -834,8 +834,8 @@
 						"selection":
 						[
 							[
-								0,
-								0
+								1974,
+								1570
 							]
 						],
 						"settings":
@@ -845,7 +845,7 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 858.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,
