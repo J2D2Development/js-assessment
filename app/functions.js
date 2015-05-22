@@ -33,7 +33,9 @@ define(function() {
     },
 
     callIt : function(fn) {
-
+        var ag = Array.prototype.slice.call(arguments);
+        var rest = ag.slice(1);
+        return fn.apply(fn, rest);
     },
 
     partialUsingArguments : function(fn) {
