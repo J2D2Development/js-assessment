@@ -23,12 +23,9 @@ define(function() {
 
     //!!!this gives the right answer, but doesn't pass test?
     removeWithoutCopy : function(arr, item) {
-        arr.forEach(function(x) {
-            if(arr[x] === item) {
-                arr.splice(x, 1);
-            }
+        return arr.map(function(x, i) {
+            if(arr[x] !== item) return x;
         });
-        return arr;
     },
 
     append : function(arr, item) {

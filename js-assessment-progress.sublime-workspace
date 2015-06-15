@@ -412,18 +412,18 @@
 			}
 		},
 		{
-			"file": "app/functions.js",
+			"file": "app/objects.js",
 			"settings":
 			{
-				"buffer_size": 1532,
+				"buffer_size": 268,
 				"line_ending": "Windows"
 			}
 		},
 		{
-			"file": "tests/app/functions.js",
+			"file": "tests/app/objects.js",
 			"settings":
 			{
-				"buffer_size": 5216,
+				"buffer_size": 1798,
 				"line_ending": "Windows"
 			}
 		}
@@ -460,6 +460,10 @@
 	},
 	"file_history":
 	[
+		"/C/xampp/htdocs/js-assessment/app/functions.js",
+		"/C/xampp/htdocs/js-assessment/app/arrays.js",
+		"/C/xampp/htdocs/js-assessment/tests/app/functions.js",
+		"/C/xampp/htdocs/js-assessment/tests/app/arrays.js",
 		"/C/xampp/htdocs/jsPractice/good-parts-q1-5.js",
 		"/C/Users/joedriscoll79/Documents/2011passwords.txt",
 		"/C/Users/joedriscoll79/Documents/Nord Enterprises/SE Region/Four Seasons/optimized_contents/js/jquery.bgiframe.js",
@@ -467,8 +471,6 @@
 		"/C/xampp/htdocs/js-assessment/app/numbers.js",
 		"/C/xampp/htdocs/js-assessment/tests/app/logicalOperators.js",
 		"/C/xampp/htdocs/js-assessment/app/logicalOperators.js",
-		"/C/xampp/htdocs/js-assessment/tests/app/arrays.js",
-		"/C/xampp/htdocs/js-assessment/app/arrays.js",
 		"/C/xampp/htdocs/js-assessment/app/modules.js",
 		"/C/xampp/htdocs/js-assessment/tests/app/flowControl.js",
 		"/C/xampp/htdocs/js-assessment/app/flowControl.js",
@@ -585,9 +587,7 @@
 		"/C/xampp/htdocs/NordDev/cp/mng_fac.php",
 		"/C/xampp/htdocs/NordDev/cp/editevents.inc",
 		"/C/xampp/htdocs/NordDev/cp/cppage.html",
-		"/C/xampp/htdocs/NordDev/cp/editpayment.php",
-		"/C/xampp/htdocs/NordDev/cp/editmediafiles.inc",
-		"/C/xampp/htdocs/NordDev/cp/editphotoalbums.php"
+		"/C/xampp/htdocs/NordDev/cp/editpayment.php"
 	],
 	"find":
 	{
@@ -758,7 +758,7 @@
 	"groups":
 	[
 		{
-			"selected": 2,
+			"selected": 1,
 			"sheets":
 			[
 				{
@@ -793,49 +793,47 @@
 				},
 				{
 					"buffer": 1,
-					"file": "app/functions.js",
+					"file": "app/objects.js",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 1532,
+						"buffer_size": 268,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								712,
-								712
+								0,
+								0
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
 						},
 						"translation.x": 0.0,
-						"translation.y": 198.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 1,
+					"stack_index": 0,
 					"type": "text"
 				},
 				{
 					"buffer": 2,
-					"file": "tests/app/functions.js",
+					"file": "tests/app/objects.js",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 5216,
+						"buffer_size": 1798,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								1974,
-								1570
+								0,
+								0
 							]
 						],
 						"settings":
@@ -845,10 +843,10 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 858.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 0,
+					"stack_index": 1,
 					"type": "text"
 				}
 			]
